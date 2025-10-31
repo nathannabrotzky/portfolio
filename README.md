@@ -6,8 +6,14 @@ I am also using this portfolio as a launch-point for my own personal portfolio w
 To access, just run any html script in your browser.
 
 Roadmap Project URLS:
+
 https://roadmap.sh/projects/single-page-cv
+
 https://roadmap.sh/projects/basic-html-website
 
+
 Roadmap Solution Shareable Links:
+
 https://roadmap.sh/projects/single-page-cv/solutions?u=69029799b0418a041e6bb077
+
+https://roadmap.sh/projects/basic-html-website/solutions?u=69029799b0418a041e6bb077
